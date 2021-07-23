@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+}
+#d1
+{
+   background-image: url(https://images.unsplash.com/photo-1539639087565-41c59f40f3d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80);
+   background-size :  2050px 1080px ;
+  width: 2050px;
+  height: 900px;
+   background-repeat: no-repeat;
+}
+
+img
+{
+    margin: 0;
+    padding: 0;
+}
+#intro
+{
+    margin: 0;
+   text-align: center;
+   font-family: 'Kirang Haerang', cursive;
+   font-size: 100px;
+   padding-top: 170px;
+   color: #7D5A50;
+   
+}
+#h2a
+{
+    font-family: 'Kirang Haerang', cursive;
+    font-size: 30px;
+    text-align: center;
+    color: #7D5A50;
+}
+#menuitems
+{
+    font-family: 'Open Sans', sans-serif;;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 50px;
+    width: 120px;
+    font-size: 25px;
+    color: #7D5A50;
+}
+#id2
+{
+    margin-left: 1350px;
+    width: fit-content;
+    height: fit-content;
+}
+a#menuitems:hover
+{
+    background-color: #7D5A50;
+    color:white;
+    font-weight: bold;
+}
+#d2
+{
+    height: 500px;
+    background-color: #D8B384;
+}
+#d3
+{
+    height: 500px;
+    width: 350px;
+    display: inline-block;
+    margin-right: 200px ;
+    background-color: #F3F0D7;
+}
+#d4
+{
+    height: 500px;
+    width: 350px; 
+    display: inline-block;
+    margin-right: 200px ;
+    background-color: #F3F0D7;
+}
+#d5
+{
+    height: 500px;
+    width: 350px;
+    display: inline-block;
+    background-color: #F3F0D7;
+}
+#container
+{
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    position: relative;
+    top: 50px;
+}
+#d6
+{
+    margin-top: 300px;
+    height: 300px;
+    background-color: #B2B8A3;
+}
+#achievments
+{
+    font-family: 'Kirang Haerang', cursive;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 30px;
+    color: #7D5A50;
+    font-weight: bold;
+}
+h3
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #E5B299;
+}
+ul
+{
+    list-style: none;
+    word-spacing: 5px;
+    font-size: 22px;
+    text-align: center;
+    line-height: 50px;
+}
+#ab
+{
+    text-decoration: none;
+    color: #CC9B6D;
+}
+#contact
+{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+    color: #39A2DB;
+    font-family: 'Kirang Haerang', cursive;
+}
+p
+{
+    padding-left: 500px;
+    font-size: 20px;
+}
